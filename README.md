@@ -1,3 +1,3 @@
-#How to Make Google Home Page using HTML and CSS
+How to Make Google Home Page using HTML and CSS.
 
-Recreating the Google Homepage with HTML & CSS
+Recreating the Google Homepage with HTML & CSS.
