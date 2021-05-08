@@ -2,4 +2,4 @@
 
 Recreating the Google Homepage with HTML & CSS.
 
-[See Demo](https://beklife.github.io/fake.google.github.io/)
+[See Demo](https://beklife.github.io/Google-Homepage/)
